@@ -24,7 +24,7 @@ Repositori ini dibuat dengan tujuan:
 - Mencatat progres belajar saya dalam C++.
 - Berbagi contoh kode sederhana untuk pemula yang juga sedang mempelajari C++.
 - Mengasah keterampilan pemrograman saya melalui latihan dan proyek kecil.
-
 ## Kontribusi
-Jika Anda memiliki saran, ide, atau ingin berkontribusi, bisa untuk membuat **pull request** atau membuka **issue**. Semua masukan sangat akan sangat saya hargai!
+Jika memiliki saran, ide, atau ingin berkontribusi, bisa untuk membuat **pull request** atau membuka **issue**. Semua masukan sangat akan sangat saya hargai!
+
 
